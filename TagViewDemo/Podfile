@@ -1,0 +1,7 @@
+
+target 'TagViewDemo' do
+use_frameworks!
+pod 'HexColors','3.0'
+pod 'Masonry'
+pod 'SKTagView'
+end

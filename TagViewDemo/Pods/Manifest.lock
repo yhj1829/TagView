@@ -1,0 +1,18 @@
+PODS:
+  - HexColors (3.0.0)
+  - Masonry (1.0.2)
+  - SKTagView (0.9.2)
+
+DEPENDENCIES:
+  - HexColors (= 3.0)
+  - Masonry
+  - SKTagView
+
+SPEC CHECKSUMS:
+  HexColors: 8b83e3fe90c0d466dae7b98c9d22da95799f99cb
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SKTagView: 59cdadcd16e4a09300746ad1811a72371e1327f7
+
+PODFILE CHECKSUM: 0c7359f1dd2097f85cf1b70e8538607023cf04f9
+
+COCOAPODS: 1.2.0
